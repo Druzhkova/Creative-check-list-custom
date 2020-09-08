@@ -1,3 +1,3 @@
-# Creative Check List Custom Checkbox using CSS
+# Creative check list
 
-<a href="https://viktoriya-druzhkova.github.io/Creative_Check_List_Custom_Checkbox_using_CSS/">Watch here - Creative Check List Custom Checkbox using CSS</a>
+<a href="https://druzhkova.github.io/Creative-check-list-custom/">Watch here</a>
